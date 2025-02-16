@@ -1,0 +1,43 @@
+body{
+    text-align: left;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-style: bold;
+    font-size: 18px;
+}
+head{
+    position: relative;
+}
+form{
+    text-align: left;
+
+}
+
+div{
+    text-align: center;
+    float: center
+}
+table{
+    border: 1px;
+    border-style:solid;
+    text-align: center;
+    margin:auto;
+    background-color: white;
+}
+table th{
+    border: 1px;
+    border-style:solid; 
+
+}
+
+table tr{
+    border: 1px;
+    border-style:solid;
+}
+table tb{
+    border: 1px;
+    border-style:solid;
+}
+h2{
+    text-align: center;
+}
